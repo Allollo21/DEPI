@@ -1,0 +1,28 @@
+d:\Depi.Net\C#\Day01\Task\New folder\HelloWorld\bin\Debug\net9.0\HelloWorld.exe
+d:\Depi.Net\C#\Day01\Task\New folder\HelloWorld\bin\Debug\net9.0\HelloWorld.deps.json
+d:\Depi.Net\C#\Day01\Task\New folder\HelloWorld\bin\Debug\net9.0\HelloWorld.runtimeconfig.json
+d:\Depi.Net\C#\Day01\Task\New folder\HelloWorld\bin\Debug\net9.0\HelloWorld.dll
+d:\Depi.Net\C#\Day01\Task\New folder\HelloWorld\bin\Debug\net9.0\HelloWorld.pdb
+d:\Depi.Net\C#\Day01\Task\New folder\HelloWorld\obj\Debug\net9.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+d:\Depi.Net\C#\Day01\Task\New folder\HelloWorld\obj\Debug\net9.0\HelloWorld.AssemblyInfoInputs.cache
+d:\Depi.Net\C#\Day01\Task\New folder\HelloWorld\obj\Debug\net9.0\HelloWorld.AssemblyInfo.cs
+d:\Depi.Net\C#\Day01\Task\New folder\HelloWorld\obj\Debug\net9.0\HelloWorld.csproj.CoreCompileInputs.cache
+d:\Depi.Net\C#\Day01\Task\New folder\HelloWorld\obj\Debug\net9.0\HelloWorld.dll
+d:\Depi.Net\C#\Day01\Task\New folder\HelloWorld\obj\Debug\net9.0\refint\HelloWorld.dll
+d:\Depi.Net\C#\Day01\Task\New folder\HelloWorld\obj\Debug\net9.0\HelloWorld.pdb
+d:\Depi.Net\C#\Day01\Task\New folder\HelloWorld\obj\Debug\net9.0\HelloWorld.genruntimeconfig.cache
+d:\Depi.Net\C#\Day01\Task\New folder\HelloWorld\obj\Debug\net9.0\ref\HelloWorld.dll
+d:\Depi.Net\C#\Day01\Task\HelloWorld\HelloWorld\bin\Debug\net9.0\HelloWorld.exe
+d:\Depi.Net\C#\Day01\Task\HelloWorld\HelloWorld\bin\Debug\net9.0\HelloWorld.deps.json
+d:\Depi.Net\C#\Day01\Task\HelloWorld\HelloWorld\bin\Debug\net9.0\HelloWorld.runtimeconfig.json
+d:\Depi.Net\C#\Day01\Task\HelloWorld\HelloWorld\bin\Debug\net9.0\HelloWorld.dll
+d:\Depi.Net\C#\Day01\Task\HelloWorld\HelloWorld\bin\Debug\net9.0\HelloWorld.pdb
+d:\Depi.Net\C#\Day01\Task\HelloWorld\HelloWorld\obj\Debug\net9.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+d:\Depi.Net\C#\Day01\Task\HelloWorld\HelloWorld\obj\Debug\net9.0\HelloWorld.AssemblyInfoInputs.cache
+d:\Depi.Net\C#\Day01\Task\HelloWorld\HelloWorld\obj\Debug\net9.0\HelloWorld.AssemblyInfo.cs
+d:\Depi.Net\C#\Day01\Task\HelloWorld\HelloWorld\obj\Debug\net9.0\HelloWorld.csproj.CoreCompileInputs.cache
+d:\Depi.Net\C#\Day01\Task\HelloWorld\HelloWorld\obj\Debug\net9.0\HelloWorld.dll
+d:\Depi.Net\C#\Day01\Task\HelloWorld\HelloWorld\obj\Debug\net9.0\refint\HelloWorld.dll
+d:\Depi.Net\C#\Day01\Task\HelloWorld\HelloWorld\obj\Debug\net9.0\HelloWorld.pdb
+d:\Depi.Net\C#\Day01\Task\HelloWorld\HelloWorld\obj\Debug\net9.0\HelloWorld.genruntimeconfig.cache
+d:\Depi.Net\C#\Day01\Task\HelloWorld\HelloWorld\obj\Debug\net9.0\ref\HelloWorld.dll
