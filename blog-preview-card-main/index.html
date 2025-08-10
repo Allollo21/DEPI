@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- displays site properly based on user's device -->
+
+  <link rel="icon" type="image/png" sizes="32x32" href="./assets/images/favicon-32x32.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&display=swap" rel="stylesheet">
+  <title>Frontend Mentor | Blog preview card</title>
+
+  <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
+  <style>
+
+    @import url();
+
+    :root
+    {
+      --inner-card-width: 250px;
+      --yellow-color: hsl(47, 88%, 63%);
+      --white-color: hsl(0, 0%, 100%);
+    }
+
+    * 
+    {
+      box-sizing: border-box;
+      padding: 0;
+      margin: 0;
+    }
+
+    .container
+    {
+      background-color: var(--yellow-color);
+      height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .container .card 
+    {
+      background-color: var(--white-color);
+      display: flex;
+      flex-direction: column;
+      align-items: center; 
+      gap: 15px;
+      border-radius: 5%;
+      padding: 1.5%;
+      border: 1px solid black;
+      box-shadow: 5px 5px;
+      font-family: Figtree;
+    }
+
+    .container .card .card-image
+    {
+      width: var(--inner-card-width);
+      border-radius: 5%;
+    }
+
+    .container .card .category
+    {
+      padding: 5px 10px;
+      border-radius: 5%;
+      align-self: flex-start;
+      background-color: var(--yellow-color);
+      font-weight: bold;
+      font-size: 12px;
+    }
+
+    .container .card .publish-date
+    {
+      width: var(--inner-card-width);
+      font-size: 10px;
+      font-weight: bold;
+      margin-top: -4px;
+      color: hsl(0, 0%, 7%);
+    }
+
+    .container .card .header
+    {
+      width: var(--inner-card-width);
+      font-size: 18px;
+      font-weight: 800;
+    }
+
+    .container .card .description
+    {
+      width: var(--inner-card-width);
+      font-size: 12px;
+      color: hsl(0, 0%, 42%);
+    }
+
+    .container .card .author
+    {
+      width: var(--inner-card-width);
+      display: flex;
+      justify-content: flex-start;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .container .card .author .author-logo
+    {
+      width: 25px;
+    }
+
+    .container .card .author .author-name
+    {
+      font-size: 12px;
+      font-weight: bold;
+    }
+  </style>
+</head>
+
+<body>
+
+  <div class="container">
+    <div class="card">
+      <img src="./assets/images/illustration-article.svg" alt="Course Cover" class="card-image">
+      <p class="category">Learning</p>
+      <p class="publish-date">Created 10 Aug 2025</p>
+      <p class="header">HTML & CSS foundations</p>
+      <p class="description">These languages are the backbone of every website, defining structure, content, and presentation</p>
+      <div class="author">
+        <img src="./assets/images/image-avatar.webp" alt="Author Image" class="author-logo">
+        <p class="author-name">Greg Hooper</p>
+      </div>
+    </div>
+  </div>
+
+</body>
+
+</html>
