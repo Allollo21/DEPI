@@ -1,0 +1,156 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans&display=swap');
+
+body {
+    box-sizing: border-box;
+    font-family: 'DM Sans', sans-serif !important;
+}
+
+:root {
+    --Purple-100: hsl(254, 88%, 90%);
+    --Purple-500: hsl(256, 67%, 59%);
+    --Yellow-100: hsl(31, 66%, 93%);
+    --Yellow-500: hsl(39, 100%, 71%);
+}
+
+.bg-purple-100 {
+    background-color: var(--Purple-100) !important;
+}
+
+.bg-purple-500 {
+    background-color: var(--Purple-500) !important;
+}
+
+.bg-yellow-100 {
+    background-color: var(--Yellow-100) !important;
+}
+
+.bg-yellow-500 {
+    background-color: var(--Yellow-500) !important;
+}
+
+.text-purple-500 {
+    color: var(--Purple-500) !important;
+}
+
+.text-yellow-500 {
+    color: var(--Yellow-500) !important;
+}
+
+.italic {
+    font-style: italic;
+}
+
+/* Block 1 */
+#block-1 {
+    background-color: var(--Yellow-100);
+    font-weight: bold;
+}
+
+#block-1 img {
+    width: 90%;
+}
+
+#block-1 h5,
+#block-6 h5 {
+    line-height: 0.9;
+    margin-bottom: 1rem;
+    letter-spacing: -1px;
+    font-size: 20px;
+}
+
+#block-2 p {
+    opacity: 0.8;
+}
+
+/* Block 3 */
+#block-3 {
+    background-color: var(--Purple-100);
+    max-height: 22.5rem;
+}
+
+#block-3 h6 {
+    font-size: 20px;
+}
+
+#block-4 {
+    max-width: 12rem;
+    overflow: hidden;
+}
+
+#block-4 img {
+    height: 2.5rem;
+    border-radius: 40%;
+}
+
+#block-5 {
+    overflow: hidden;
+    max-height: 12rem;
+}
+
+#block-5 h5 {
+    line-height: 0.9;
+}
+
+#block-5 img {
+    height: 7rem;
+}
+
+#block-8 {
+    min-width: 24rem;
+}
+
+#block-8 h6 {
+    font-size: 25px;
+}
+
+@media (max-width: 767.98px) {
+    #block-3 {
+        max-height: none;
+        text-align: center;
+    }
+
+    #block-3 img {
+        height: 15rem;
+    }
+
+    #block-4, #block-5 {
+        max-width: 100%;
+        max-height: none;
+        text-align: center;
+    }
+
+    #block-5 img {
+        height: auto;
+        max-width: 70%;
+    }
+
+    #block-8 {
+        min-width: auto;
+        flex-direction: column !important;
+        text-align: center;
+    }
+
+    #block-8 img {
+        max-width: 8rem !important;
+        margin-bottom: 1rem;
+    }
+
+    #block-8 h6 {
+        font-size: 18px;
+    }
+
+    #block-1, #block-6 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+
+    #block-1 img {
+        width: 8rem;
+    }
+
+    #block-6 img {
+        width: 15rem;
+    }
+}
