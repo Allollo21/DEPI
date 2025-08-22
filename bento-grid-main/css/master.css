@@ -154,3 +154,19 @@ body {
         width: 15rem;
     }
 }
+
+@media screen and (min-width: 1025px) {
+
+    #block-3 img{
+        margin-top: -0.5rem !important;
+    }
+
+    #block-8 {
+        min-width: 29.5rem;
+    }
+
+    #block-6 {
+        padding: 2.3rem 1rem !important;
+    }
+
+}
