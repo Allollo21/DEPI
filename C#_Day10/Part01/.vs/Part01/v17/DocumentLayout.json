@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Depi.Net\\C#\\Day10\\Ali_Reda_Mohamed_Abdelbaky_C#_Day10\\Part01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56144A3D-6126-45A4-99A7-285638D096EA}|Part01\\Part01.csproj|d:\\depi.net\\c#\\day10\\ali_reda_mohamed_abdelbaky_c#_day10\\part01\\part01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56144A3D-6126-45A4-99A7-285638D096EA}|Part01\\Part01.csproj|solutionrelative:part01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Depi.Net\\C#\\Day10\\Ali_Reda_Mohamed_Abdelbaky_C#_Day10\\Part01\\Part01\\Program.cs",
+              "RelativeDocumentMoniker": "Part01\\Program.cs",
+              "ToolTip": "D:\\Depi.Net\\C#\\Day10\\Ali_Reda_Mohamed_Abdelbaky_C#_Day10\\Part01\\Part01\\Program.cs",
+              "RelativeToolTip": "Part01\\Program.cs",
+              "ViewState": "AgIAACsEAAAAAAAAAAAAAAwFAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T11:19:45.079Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
