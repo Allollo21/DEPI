@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Depi.Net\\EfCore\\Day04\\Ali_Reda_Mohamed_Abdelbaky_EfCore_Day04\\ProjectOne\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{971CBC5A-E907-4BFF-9177-B5B293EEB4F6}|ProjectOne\\ProjectOne.csproj|d:\\depi.net\\efcore\\day04\\ali_reda_mohamed_abdelbaky_efcore_day04\\projectone\\projectone\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{971CBC5A-E907-4BFF-9177-B5B293EEB4F6}|ProjectOne\\ProjectOne.csproj|solutionrelative:projectone\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{971CBC5A-E907-4BFF-9177-B5B293EEB4F6}|ProjectOne\\ProjectOne.csproj|d:\\depi.net\\efcore\\day04\\ali_reda_mohamed_abdelbaky_efcore_day04\\projectone\\projectone\\modelconfiguration\\customerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{971CBC5A-E907-4BFF-9177-B5B293EEB4F6}|ProjectOne\\ProjectOne.csproj|solutionrelative:projectone\\modelconfiguration\\customerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{971CBC5A-E907-4BFF-9177-B5B293EEB4F6}|ProjectOne\\ProjectOne.csproj|d:\\depi.net\\efcore\\day04\\ali_reda_mohamed_abdelbaky_efcore_day04\\projectone\\projectone\\modelconfiguration\\orderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{971CBC5A-E907-4BFF-9177-B5B293EEB4F6}|ProjectOne\\ProjectOne.csproj|solutionrelative:projectone\\modelconfiguration\\orderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{971CBC5A-E907-4BFF-9177-B5B293EEB4F6}|ProjectOne\\ProjectOne.csproj|d:\\depi.net\\efcore\\day04\\ali_reda_mohamed_abdelbaky_efcore_day04\\projectone\\projectone\\modelconfiguration\\orderdetailconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{971CBC5A-E907-4BFF-9177-B5B293EEB4F6}|ProjectOne\\ProjectOne.csproj|solutionrelative:projectone\\modelconfiguration\\orderdetailconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{971CBC5A-E907-4BFF-9177-B5B293EEB4F6}|ProjectOne\\ProjectOne.csproj|d:\\depi.net\\efcore\\day04\\ali_reda_mohamed_abdelbaky_efcore_day04\\projectone\\projectone\\modelconfiguration\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{971CBC5A-E907-4BFF-9177-B5B293EEB4F6}|ProjectOne\\ProjectOne.csproj|solutionrelative:projectone\\modelconfiguration\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{971CBC5A-E907-4BFF-9177-B5B293EEB4F6}|ProjectOne\\ProjectOne.csproj|d:\\depi.net\\efcore\\day04\\ali_reda_mohamed_abdelbaky_efcore_day04\\projectone\\projectone\\modelconfiguration\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{971CBC5A-E907-4BFF-9177-B5B293EEB4F6}|ProjectOne\\ProjectOne.csproj|solutionrelative:projectone\\modelconfiguration\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Depi.Net\\EfCore\\Day03\\Ali_Reda_Mohamed_Abdelbaky_EfCore_Day03\\ProjectOne\\ProjectOne\\Migrations\\20250911030751_MoreEdits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{971CBC5A-E907-4BFF-9177-B5B293EEB4F6}|ProjectOne\\ProjectOne.csproj|d:\\depi.net\\efcore\\day04\\ali_reda_mohamed_abdelbaky_efcore_day04\\projectone\\projectone\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{971CBC5A-E907-4BFF-9177-B5B293EEB4F6}|ProjectOne\\ProjectOne.csproj|solutionrelative:projectone\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{971CBC5A-E907-4BFF-9177-B5B293EEB4F6}|ProjectOne\\ProjectOne.csproj|d:\\depi.net\\efcore\\day04\\ali_reda_mohamed_abdelbaky_efcore_day04\\projectone\\projectone\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{971CBC5A-E907-4BFF-9177-B5B293EEB4F6}|ProjectOne\\ProjectOne.csproj|solutionrelative:projectone\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{971CBC5A-E907-4BFF-9177-B5B293EEB4F6}|ProjectOne\\ProjectOne.csproj|d:\\depi.net\\efcore\\day04\\ali_reda_mohamed_abdelbaky_efcore_day04\\projectone\\projectone\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{971CBC5A-E907-4BFF-9177-B5B293EEB4F6}|ProjectOne\\ProjectOne.csproj|solutionrelative:projectone\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{971CBC5A-E907-4BFF-9177-B5B293EEB4F6}|ProjectOne\\ProjectOne.csproj|d:\\depi.net\\efcore\\day04\\ali_reda_mohamed_abdelbaky_efcore_day04\\projectone\\projectone\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{971CBC5A-E907-4BFF-9177-B5B293EEB4F6}|ProjectOne\\ProjectOne.csproj|solutionrelative:projectone\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{971CBC5A-E907-4BFF-9177-B5B293EEB4F6}|ProjectOne\\ProjectOne.csproj|d:\\depi.net\\efcore\\day04\\ali_reda_mohamed_abdelbaky_efcore_day04\\projectone\\projectone\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{971CBC5A-E907-4BFF-9177-B5B293EEB4F6}|ProjectOne\\ProjectOne.csproj|solutionrelative:projectone\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{971CBC5A-E907-4BFF-9177-B5B293EEB4F6}|ProjectOne\\ProjectOne.csproj|d:\\depi.net\\efcore\\day04\\ali_reda_mohamed_abdelbaky_efcore_day04\\projectone\\projectone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{971CBC5A-E907-4BFF-9177-B5B293EEB4F6}|ProjectOne\\ProjectOne.csproj|solutionrelative:projectone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250911030751_MoreEdits.cs",
+              "DocumentMoniker": "D:\\Depi.Net\\EfCore\\Day03\\Ali_Reda_Mohamed_Abdelbaky_EfCore_Day03\\ProjectOne\\ProjectOne\\Migrations\\20250911030751_MoreEdits.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Day03\\Ali_Reda_Mohamed_Abdelbaky_EfCore_Day03\\ProjectOne\\ProjectOne\\Migrations\\20250911030751_MoreEdits.cs",
+              "ToolTip": "D:\\Depi.Net\\EfCore\\Day03\\Ali_Reda_Mohamed_Abdelbaky_EfCore_Day03\\ProjectOne\\ProjectOne\\Migrations\\20250911030751_MoreEdits.cs",
+              "RelativeToolTip": "..\\..\\..\\Day03\\Ali_Reda_Mohamed_Abdelbaky_EfCore_Day03\\ProjectOne\\ProjectOne\\Migrations\\20250911030751_MoreEdits.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T03:07:51.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Depi.Net\\EfCore\\Day04\\Ali_Reda_Mohamed_Abdelbaky_EfCore_Day04\\ProjectOne\\ProjectOne\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ProjectOne\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Depi.Net\\EfCore\\Day04\\Ali_Reda_Mohamed_Abdelbaky_EfCore_Day04\\ProjectOne\\ProjectOne\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ProjectOne\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwA8AAACPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T22:43:33.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderDetailConfiguration.cs",
+              "DocumentMoniker": "D:\\Depi.Net\\EfCore\\Day04\\Ali_Reda_Mohamed_Abdelbaky_EfCore_Day04\\ProjectOne\\ProjectOne\\ModelConfiguration\\OrderDetailConfiguration.cs",
+              "RelativeDocumentMoniker": "ProjectOne\\ModelConfiguration\\OrderDetailConfiguration.cs",
+              "ToolTip": "D:\\Depi.Net\\EfCore\\Day04\\Ali_Reda_Mohamed_Abdelbaky_EfCore_Day04\\ProjectOne\\ProjectOne\\ModelConfiguration\\OrderDetailConfiguration.cs",
+              "RelativeToolTip": "ProjectOne\\ModelConfiguration\\OrderDetailConfiguration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA+wCYAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T22:42:39.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderConfiguration.cs",
+              "DocumentMoniker": "D:\\Depi.Net\\EfCore\\Day04\\Ali_Reda_Mohamed_Abdelbaky_EfCore_Day04\\ProjectOne\\ProjectOne\\ModelConfiguration\\OrderConfiguration.cs",
+              "RelativeDocumentMoniker": "ProjectOne\\ModelConfiguration\\OrderConfiguration.cs",
+              "ToolTip": "D:\\Depi.Net\\EfCore\\Day04\\Ali_Reda_Mohamed_Abdelbaky_EfCore_Day04\\ProjectOne\\ProjectOne\\ModelConfiguration\\OrderConfiguration.cs",
+              "RelativeToolTip": "ProjectOne\\ModelConfiguration\\OrderConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T22:42:18.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerConfiguration.cs",
+              "DocumentMoniker": "D:\\Depi.Net\\EfCore\\Day04\\Ali_Reda_Mohamed_Abdelbaky_EfCore_Day04\\ProjectOne\\ProjectOne\\ModelConfiguration\\CustomerConfiguration.cs",
+              "RelativeDocumentMoniker": "ProjectOne\\ModelConfiguration\\CustomerConfiguration.cs",
+              "ToolTip": "D:\\Depi.Net\\EfCore\\Day04\\Ali_Reda_Mohamed_Abdelbaky_EfCore_Day04\\ProjectOne\\ProjectOne\\ModelConfiguration\\CustomerConfiguration.cs",
+              "RelativeToolTip": "ProjectOne\\ModelConfiguration\\CustomerConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T22:41:52.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoryConfiguration.cs",
+              "DocumentMoniker": "D:\\Depi.Net\\EfCore\\Day04\\Ali_Reda_Mohamed_Abdelbaky_EfCore_Day04\\ProjectOne\\ProjectOne\\ModelConfiguration\\CategoryConfiguration.cs",
+              "RelativeDocumentMoniker": "ProjectOne\\ModelConfiguration\\CategoryConfiguration.cs",
+              "ToolTip": "D:\\Depi.Net\\EfCore\\Day04\\Ali_Reda_Mohamed_Abdelbaky_EfCore_Day04\\ProjectOne\\ProjectOne\\ModelConfiguration\\CategoryConfiguration.cs",
+              "RelativeToolTip": "ProjectOne\\ModelConfiguration\\CategoryConfiguration.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T22:41:24.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductConfiguration.cs",
+              "DocumentMoniker": "D:\\Depi.Net\\EfCore\\Day04\\Ali_Reda_Mohamed_Abdelbaky_EfCore_Day04\\ProjectOne\\ProjectOne\\ModelConfiguration\\ProductConfiguration.cs",
+              "RelativeDocumentMoniker": "ProjectOne\\ModelConfiguration\\ProductConfiguration.cs",
+              "ToolTip": "D:\\Depi.Net\\EfCore\\Day04\\Ali_Reda_Mohamed_Abdelbaky_EfCore_Day04\\ProjectOne\\ProjectOne\\ModelConfiguration\\ProductConfiguration.cs",
+              "RelativeToolTip": "ProjectOne\\ModelConfiguration\\ProductConfiguration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA+wCMAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T22:40:46.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "D:\\Depi.Net\\EfCore\\Day04\\Ali_Reda_Mohamed_Abdelbaky_EfCore_Day04\\ProjectOne\\ProjectOne\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "ProjectOne\\Models\\OrderDetail.cs",
+              "ToolTip": "D:\\Depi.Net\\EfCore\\Day04\\Ali_Reda_Mohamed_Abdelbaky_EfCore_Day04\\ProjectOne\\ProjectOne\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "ProjectOne\\Models\\OrderDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T22:40:04.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Depi.Net\\EfCore\\Day04\\Ali_Reda_Mohamed_Abdelbaky_EfCore_Day04\\ProjectOne\\ProjectOne\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "ProjectOne\\Models\\Order.cs",
+              "ToolTip": "D:\\Depi.Net\\EfCore\\Day04\\Ali_Reda_Mohamed_Abdelbaky_EfCore_Day04\\ProjectOne\\ProjectOne\\Models\\Order.cs",
+              "RelativeToolTip": "ProjectOne\\Models\\Order.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T22:39:36.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Depi.Net\\EfCore\\Day04\\Ali_Reda_Mohamed_Abdelbaky_EfCore_Day04\\ProjectOne\\ProjectOne\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "ProjectOne\\Models\\Customer.cs",
+              "ToolTip": "D:\\Depi.Net\\EfCore\\Day04\\Ali_Reda_Mohamed_Abdelbaky_EfCore_Day04\\ProjectOne\\ProjectOne\\Models\\Customer.cs",
+              "RelativeToolTip": "ProjectOne\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T22:39:15.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Depi.Net\\EfCore\\Day04\\Ali_Reda_Mohamed_Abdelbaky_EfCore_Day04\\ProjectOne\\ProjectOne\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "ProjectOne\\Models\\Category.cs",
+              "ToolTip": "D:\\Depi.Net\\EfCore\\Day04\\Ali_Reda_Mohamed_Abdelbaky_EfCore_Day04\\ProjectOne\\ProjectOne\\Models\\Category.cs",
+              "RelativeToolTip": "ProjectOne\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T22:38:36.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Depi.Net\\EfCore\\Day04\\Ali_Reda_Mohamed_Abdelbaky_EfCore_Day04\\ProjectOne\\ProjectOne\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ProjectOne\\Models\\Product.cs",
+              "ToolTip": "D:\\Depi.Net\\EfCore\\Day04\\Ali_Reda_Mohamed_Abdelbaky_EfCore_Day04\\ProjectOne\\ProjectOne\\Models\\Product.cs",
+              "RelativeToolTip": "ProjectOne\\Models\\Product.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAoAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T22:38:06.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Depi.Net\\EfCore\\Day04\\Ali_Reda_Mohamed_Abdelbaky_EfCore_Day04\\ProjectOne\\ProjectOne\\Program.cs",
+              "RelativeDocumentMoniker": "ProjectOne\\Program.cs",
+              "ToolTip": "D:\\Depi.Net\\EfCore\\Day04\\Ali_Reda_Mohamed_Abdelbaky_EfCore_Day04\\ProjectOne\\ProjectOne\\Program.cs",
+              "RelativeToolTip": "ProjectOne\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T22:33:53.271Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

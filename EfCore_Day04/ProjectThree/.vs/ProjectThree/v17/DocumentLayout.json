@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Depi.Net\\EfCore\\Day04\\Ali_Reda_Mohamed_Abdelbaky_EfCore_Day04\\ProjectThree\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{060E132E-2D44-42B4-A66D-7E02163F8C04}|ProjectThree\\ProjectThree.csproj|d:\\depi.net\\efcore\\day04\\ali_reda_mohamed_abdelbaky_efcore_day04\\projectthree\\projectthree\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{060E132E-2D44-42B4-A66D-7E02163F8C04}|ProjectThree\\ProjectThree.csproj|solutionrelative:projectthree\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Depi.Net\\EfCore\\Day04\\Ali_Reda_Mohamed_Abdelbaky_EfCore_Day04\\ProjectThree\\ProjectThree\\Migrations\\20250911041145_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectThree\\Migrations\\20250911041145_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{060E132E-2D44-42B4-A66D-7E02163F8C04}|ProjectThree\\ProjectThree.csproj|d:\\depi.net\\efcore\\day04\\ali_reda_mohamed_abdelbaky_efcore_day04\\projectthree\\projectthree\\modelconfiguration\\patientconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{060E132E-2D44-42B4-A66D-7E02163F8C04}|ProjectThree\\ProjectThree.csproj|solutionrelative:projectthree\\modelconfiguration\\patientconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{060E132E-2D44-42B4-A66D-7E02163F8C04}|ProjectThree\\ProjectThree.csproj|d:\\depi.net\\efcore\\day04\\ali_reda_mohamed_abdelbaky_efcore_day04\\projectthree\\projectthree\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{060E132E-2D44-42B4-A66D-7E02163F8C04}|ProjectThree\\ProjectThree.csproj|solutionrelative:projectthree\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{060E132E-2D44-42B4-A66D-7E02163F8C04}|ProjectThree\\ProjectThree.csproj|d:\\depi.net\\efcore\\day04\\ali_reda_mohamed_abdelbaky_efcore_day04\\projectthree\\projectthree\\modelconfiguration\\doctorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{060E132E-2D44-42B4-A66D-7E02163F8C04}|ProjectThree\\ProjectThree.csproj|solutionrelative:projectthree\\modelconfiguration\\doctorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{060E132E-2D44-42B4-A66D-7E02163F8C04}|ProjectThree\\ProjectThree.csproj|d:\\depi.net\\efcore\\day04\\ali_reda_mohamed_abdelbaky_efcore_day04\\projectthree\\projectthree\\modelconfiguration\\appointmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{060E132E-2D44-42B4-A66D-7E02163F8C04}|ProjectThree\\ProjectThree.csproj|solutionrelative:projectthree\\modelconfiguration\\appointmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{060E132E-2D44-42B4-A66D-7E02163F8C04}|ProjectThree\\ProjectThree.csproj|d:\\depi.net\\efcore\\day04\\ali_reda_mohamed_abdelbaky_efcore_day04\\projectthree\\projectthree\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{060E132E-2D44-42B4-A66D-7E02163F8C04}|ProjectThree\\ProjectThree.csproj|solutionrelative:projectthree\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{060E132E-2D44-42B4-A66D-7E02163F8C04}|ProjectThree\\ProjectThree.csproj|d:\\depi.net\\efcore\\day04\\ali_reda_mohamed_abdelbaky_efcore_day04\\projectthree\\projectthree\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{060E132E-2D44-42B4-A66D-7E02163F8C04}|ProjectThree\\ProjectThree.csproj|solutionrelative:projectthree\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{060E132E-2D44-42B4-A66D-7E02163F8C04}|ProjectThree\\ProjectThree.csproj|d:\\depi.net\\efcore\\day04\\ali_reda_mohamed_abdelbaky_efcore_day04\\projectthree\\projectthree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{060E132E-2D44-42B4-A66D-7E02163F8C04}|ProjectThree\\ProjectThree.csproj|solutionrelative:projectthree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250911041145_Initial.cs",
+              "DocumentMoniker": "D:\\Depi.Net\\EfCore\\Day04\\Ali_Reda_Mohamed_Abdelbaky_EfCore_Day04\\ProjectThree\\ProjectThree\\Migrations\\20250911041145_Initial.cs",
+              "RelativeDocumentMoniker": "ProjectThree\\Migrations\\20250911041145_Initial.cs",
+              "ToolTip": "D:\\Depi.Net\\EfCore\\Day04\\Ali_Reda_Mohamed_Abdelbaky_EfCore_Day04\\ProjectThree\\ProjectThree\\Migrations\\20250911041145_Initial.cs",
+              "RelativeToolTip": "ProjectThree\\Migrations\\20250911041145_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T04:11:45.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Depi.Net\\EfCore\\Day04\\Ali_Reda_Mohamed_Abdelbaky_EfCore_Day04\\ProjectThree\\ProjectThree\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ProjectThree\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Depi.Net\\EfCore\\Day04\\Ali_Reda_Mohamed_Abdelbaky_EfCore_Day04\\ProjectThree\\ProjectThree\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ProjectThree\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwBEAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T04:09:46.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppointmentConfiguration.cs",
+              "DocumentMoniker": "D:\\Depi.Net\\EfCore\\Day04\\Ali_Reda_Mohamed_Abdelbaky_EfCore_Day04\\ProjectThree\\ProjectThree\\ModelConfiguration\\AppointmentConfiguration.cs",
+              "RelativeDocumentMoniker": "ProjectThree\\ModelConfiguration\\AppointmentConfiguration.cs",
+              "ToolTip": "D:\\Depi.Net\\EfCore\\Day04\\Ali_Reda_Mohamed_Abdelbaky_EfCore_Day04\\ProjectThree\\ProjectThree\\ModelConfiguration\\AppointmentConfiguration.cs",
+              "RelativeToolTip": "ProjectThree\\ModelConfiguration\\AppointmentConfiguration.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T04:03:28.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DoctorConfiguration.cs",
+              "DocumentMoniker": "D:\\Depi.Net\\EfCore\\Day04\\Ali_Reda_Mohamed_Abdelbaky_EfCore_Day04\\ProjectThree\\ProjectThree\\ModelConfiguration\\DoctorConfiguration.cs",
+              "RelativeDocumentMoniker": "ProjectThree\\ModelConfiguration\\DoctorConfiguration.cs",
+              "ToolTip": "D:\\Depi.Net\\EfCore\\Day04\\Ali_Reda_Mohamed_Abdelbaky_EfCore_Day04\\ProjectThree\\ProjectThree\\ModelConfiguration\\DoctorConfiguration.cs",
+              "RelativeToolTip": "ProjectThree\\ModelConfiguration\\DoctorConfiguration.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwBIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T04:03:17.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PatientConfiguration.cs",
+              "DocumentMoniker": "D:\\Depi.Net\\EfCore\\Day04\\Ali_Reda_Mohamed_Abdelbaky_EfCore_Day04\\ProjectThree\\ProjectThree\\ModelConfiguration\\PatientConfiguration.cs",
+              "RelativeDocumentMoniker": "ProjectThree\\ModelConfiguration\\PatientConfiguration.cs",
+              "ToolTip": "D:\\Depi.Net\\EfCore\\Day04\\Ali_Reda_Mohamed_Abdelbaky_EfCore_Day04\\ProjectThree\\ProjectThree\\ModelConfiguration\\PatientConfiguration.cs",
+              "RelativeToolTip": "ProjectThree\\ModelConfiguration\\PatientConfiguration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAzwBEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T04:03:08.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "D:\\Depi.Net\\EfCore\\Day04\\Ali_Reda_Mohamed_Abdelbaky_EfCore_Day04\\ProjectThree\\ProjectThree\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "ProjectThree\\Models\\Appointment.cs",
+              "ToolTip": "D:\\Depi.Net\\EfCore\\Day04\\Ali_Reda_Mohamed_Abdelbaky_EfCore_Day04\\ProjectThree\\ProjectThree\\Models\\Appointment.cs",
+              "RelativeToolTip": "ProjectThree\\Models\\Appointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T04:02:06.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "D:\\Depi.Net\\EfCore\\Day04\\Ali_Reda_Mohamed_Abdelbaky_EfCore_Day04\\ProjectThree\\ProjectThree\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "ProjectThree\\Models\\Doctor.cs",
+              "ToolTip": "D:\\Depi.Net\\EfCore\\Day04\\Ali_Reda_Mohamed_Abdelbaky_EfCore_Day04\\ProjectThree\\ProjectThree\\Models\\Doctor.cs",
+              "RelativeToolTip": "ProjectThree\\Models\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T04:01:46.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "D:\\Depi.Net\\EfCore\\Day04\\Ali_Reda_Mohamed_Abdelbaky_EfCore_Day04\\ProjectThree\\ProjectThree\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "ProjectThree\\Models\\Patient.cs",
+              "ToolTip": "D:\\Depi.Net\\EfCore\\Day04\\Ali_Reda_Mohamed_Abdelbaky_EfCore_Day04\\ProjectThree\\ProjectThree\\Models\\Patient.cs",
+              "RelativeToolTip": "ProjectThree\\Models\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T04:01:22.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Depi.Net\\EfCore\\Day04\\Ali_Reda_Mohamed_Abdelbaky_EfCore_Day04\\ProjectThree\\ProjectThree\\Program.cs",
+              "RelativeDocumentMoniker": "ProjectThree\\Program.cs",
+              "ToolTip": "D:\\Depi.Net\\EfCore\\Day04\\Ali_Reda_Mohamed_Abdelbaky_EfCore_Day04\\ProjectThree\\ProjectThree\\Program.cs",
+              "RelativeToolTip": "ProjectThree\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T03:56:46.403Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
