@@ -1,0 +1,41 @@
+﻿<h1>Student Management System</h1>
+
+<style>
+	h1 {
+		color: blue;
+	}
+
+	h2 {
+		color: green;
+	}
+</style>
+
+<script>
+	console.log("Student Page Loaded!");
+</script>
+
+@{
+	int totalStudents = 150;
+	double averageGPA = 3.5;
+	string department = "Computer Science";
+}
+
+<h2>Total Students: @totalStudents</h2>
+<p>Average GPA: @averageGPA</p>
+<p>Department: @department</p>
+
+@if (averageGPA > 3.0)
+{
+	<h2>Excellent Performance!</h2>
+}
+else
+{
+	<h2>GPA=@averageGPA needs improvement</h2>
+}
+
+
+<h3>Student Numbers:</h3>
+@for (int i = 1; i <= 5; i++)
+{
+	<li>Student @i</li>
+}

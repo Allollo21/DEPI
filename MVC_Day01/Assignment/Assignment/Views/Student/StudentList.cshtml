@@ -1,0 +1,39 @@
+﻿<h1>Student List</h1>
+
+<style>
+	h1 {
+		color: purple;
+	}
+
+	h2 {
+		color: navy;
+	}
+</style>
+
+<script>
+	console.log("Student List Loaded");
+</script>
+
+@{
+	int studentCount = 5;
+	string[] students = { "Ahmed", "Sara", "Omar", "Fatma", "Youssef" };
+	double averageAge = 20.5;
+}
+>
+<h2>Total Students: @studentCount</h2>
+<h2>Average Age: @averageAge</h2>
+
+@if (studentCount > 10)
+{
+	<h2>Large Class Size</h2>
+}
+else
+{
+	<h2>Small Class - @studentCount students only</h2>
+}
+
+<h3>Student Names:</h3>
+@for (int i = 0; i < students.Length; i++)
+{
+	<li>@(i + 1). @students[i]</li>
+}

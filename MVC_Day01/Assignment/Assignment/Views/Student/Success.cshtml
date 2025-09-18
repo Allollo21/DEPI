@@ -1,0 +1,39 @@
+﻿<h1>Congratulations!</h1>
+
+<style>
+    h1 {
+        color: green;
+    }
+</style>
+
+<script>
+    console.log("Success!");
+</script>
+
+@{
+    string result = "PASSED";
+    int grade = 85;
+    string message = "Well Done!";
+}
+
+<h2>Result: @result</h2>
+<h2>Grade: @grade</h2>
+
+@if (grade >= 90)
+{
+    <h2>Excellent Work!</h2>
+}
+else if (grade >= 70)
+{
+    <h2>Good Job!</h2>
+}
+else
+{
+    <h2>Grade=@grade Keep trying!</h2>
+}
+
+<h3>Your Achievements:</h3>
+@for (int i = 1; i <= 3; i++)
+{
+    <li>Achievement @i completed</li>
+}
