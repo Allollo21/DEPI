@@ -1,0 +1,16 @@
+﻿@model Student
+
+<div class="card" style="width:400px">
+    <img class="card-img-top" src="~/img_avatar1.png" alt="Card image" style="width:100%">
+    <div class="card-body">
+        <h4 class="card-title">@Model.Name</h4>
+        <p class="card-text">Id: @Model.Id , Age: @Model.Age , Department: @(Model.Department?.Name ?? "Unknown") , DepartmentId: @Model.DepartmentId </p>
+        @* <a href="#" class="btn btn-primary">See Profile</a> *@
+    </div>
+</div>
+
+@section Scripts {
+
+    <link href="~\lib\bootstrap\dist\css\bootstrap.css" rel="stylesheet">
+    <script src="~\lib\bootstrap\dist\js\bootstrap.bundle.js"></script>
+}
