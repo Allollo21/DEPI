@@ -1,0 +1,26 @@
+﻿@model List<Student>
+
+<h1>Students</h1>
+<p> <b>Tip:</b> Press on the name to view student details</p>
+
+@foreach (var item in Model)
+{
+    <div class="media">
+        <div class="media-left media-middle">
+            <img src="~/img_avatar1.png" class="media-object" style="width:60px">
+        </div>
+        <div class="media-body">
+            <h4 class="media-heading"><a href="/Student/Details?id=@item.Id">@item.Name</a></h4>
+            <p>Id = @item.Id</p>
+            <p>Age = @item.Age</p>
+        </div>
+    </div>
+}
+
+@section Scripts {
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    @* <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script> *@
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    @* <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script> *@
+    <script src="~/lib/bootstrap/dist/js/bootstrap.min.js"></script>
+}
