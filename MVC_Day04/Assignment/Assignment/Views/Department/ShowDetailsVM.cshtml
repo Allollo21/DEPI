@@ -1,0 +1,128 @@
+﻿@model DepartmentVM
+
+<style>
+    .department-header {
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        color: white;
+        padding: 30px;
+        border-radius: 10px;
+        margin-bottom: 30px;
+    }
+
+    .state-badge {
+        font-size: 1.2em;
+        padding: 10px 20px;
+        border-radius: 25px;
+    }
+
+    .main-badge {
+        background-color: #28a745;
+        color: white;
+    }
+
+    .branch-badge {
+        background-color: #ffc107;
+        color: #212529;
+    }
+
+    .info-card {
+        background-color: #f8f9fa;
+        border: 1px solid #dee2e6;
+        border-radius: 8px;
+        padding: 20px;
+        margin-bottom: 20px;
+    }
+
+    .student-dropdown {
+        max-width: 400px;
+    }
+</style>
+
+<div class="container my-5">
+    <div class="department-header text-center">
+        <h1 class="mb-2">@Model.DepartmentName</h1>
+    </div>
+
+    <div class="row">
+        <div class="col-md-8 mx-auto">
+            <div class="info-card">
+                <h4 class="mb-4">Department Information</h4>
+
+                <div class="row mb-4">
+                    <div class="col-sm-6">
+                        <strong>Department Type:</strong>
+                        <p class="mb-0">
+                            @if (Model.DepartmentState == "Main")
+                            {
+                                <span class="text-success">
+                                    <i class="fas fa-building"></i> Main Department
+                                    <br><small class="text-muted">(More than 50 students)</small>
+                                </span>
+                            }
+                            else
+                            {
+                                <span class="text-warning">
+                                    <i class="fas fa-home"></i> Branch Department
+                                    <br><small class="text-muted">(50 or fewer students)</small>
+                                </span>
+                            }
+                        </p>
+                    </div>
+                    <div class="col-sm-6">
+                        <strong>Student Count:</strong>
+                        <p class="mb-0 fs-4 text-primary">@Model.StudentCount students</p>
+                    </div>
+                </div>
+
+                <hr>
+
+                <form asp-action="ShowDetailsVM" method="post">
+                    <input type="hidden" asp-for="DepartmentId" />
+                    <input type="hidden" asp-for="DepartmentName" />
+                    <input type="hidden" asp-for="DepartmentState" />
+                    <input type="hidden" asp-for="StudentCount" />
+
+                    <div class="mb-4">
+                        <label for="studentSelect" class="form-label">
+                            <h5>Students Over 25 Years Old</h5>
+                        </label>
+
+                        @if (Model.StudentsOver25.Any())
+                        {
+                            <select asp-for="SelectedStudentId"
+                                    asp-items="Model.StudentsOver25"
+                                    class="form-select student-dropdown"
+                                    id="studentSelect">
+                                <option value="">-- Student over 25 --</option>
+                            </select>
+
+                            <small class="form-text text-muted">
+                                Found @Model.StudentsOver25.Count student(s) over 25 years old in this department.
+                            </small>
+                        }
+                        else
+                        {
+                            <div class="alert alert-info" role="alert">
+                                <i class="fas fa-info-circle"></i>
+                                No students over 25 years old found in this department.
+                            </div>
+                        }
+                    </div>
+                </form>
+
+            </div>
+
+            <div class="text-center">
+                <a href="@Url.Action("Index")" class="btn btn-secondary">
+                    <i class="fas fa-arrow-left"></i> Back to Departments
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <link href="~/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+}

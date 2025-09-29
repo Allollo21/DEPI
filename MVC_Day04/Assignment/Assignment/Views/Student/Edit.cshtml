@@ -1,0 +1,59 @@
+﻿@model Student
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit Student</h1>
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="SaveEdit">
+            <div asp-validation-summary="All" class="text-danger"></div>
+            <input asp-for="Id" type="hidden" value="@Model.Id" class="form-control" />
+            <div class="form-group mb-2">
+                <label asp-for="Name" class="control-label mb-1"></label>
+                <input asp-for="Name" value="@Model.Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group mb-2">
+                <label asp-for="Age" class="control-label mb-1"></label>
+                <input asp-for="Age" value="@Model.Age" class="form-control" />
+                <span asp-validation-for="Age" class="text-danger"></span>
+            </div>
+            <div class="form-group mb-4">
+                <label asp-for="DepartmentId" class="control-label mb-1">Department</label>
+                <select asp-for="DepartmentId" class="form-control">
+                    <option value="">-- Select Department --</option>
+                    @if (ViewBag.Departments != null)
+                    {
+                        @foreach (var department in ViewBag.Departments)
+                        {
+                            if (@department.Id == Model.DepartmentId)
+                            {
+                                <option value="@department.Id" selected>@department.Name</option>
+                            }
+                            else
+                            { 
+                                <option value="@department.Id">@department.Name</option>
+                            }
+                        }
+                    }
+                </select>
+                <span asp-validation-for="DepartmentId" class="text-danger"></span>
+            </div>
+            <div class="form-group mb-2">
+                <input type="submit" value="Save" class="btn btn-primary" />
+                <a href="/Student/Index" class="btn btn-secondary">Cancel</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
