@@ -1,0 +1,124 @@
+﻿:root {
+    --primary-gradient: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}
+
+.page-header {
+    margin-bottom: 30px;
+    padding-bottom: 20px;
+    border-bottom: 3px solid #f0f0f0;
+}
+
+    .page-header h1 {
+        margin: 0;
+        background: var(--primary-gradient);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-clip: text;
+        font-weight: 700;
+        font-size: 2.2rem;
+    }
+
+.page-subtitle {
+    color: #6b7280;
+    font-size: 1.1rem;
+    margin-top: 8px;
+}
+
+.details-card {
+    background: white;
+    border-radius: 16px;
+    padding: 40px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.07);
+    border: 1px solid #e5e7eb;
+    max-width: 700px;
+}
+
+.detail-row {
+    display: flex;
+    padding: 20px 0;
+    border-bottom: 1px solid #f3f4f6;
+}
+
+    .detail-row:last-child {
+        border-bottom: none;
+    }
+
+.detail-label {
+    font-weight: 600;
+    color: #6b7280;
+    width: 200px;
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.detail-value {
+    flex: 1;
+    color: #111827;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.status-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 8px 16px;
+    border-radius: 20px;
+    font-size: 13px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.status-completed {
+    background: #d1fae5;
+    color: #065f46;
+}
+
+.status-pending {
+    background: #fef3c7;
+    color: #92400e;
+}
+
+.btn-group {
+    display: flex;
+    gap: 12px;
+    margin-top: 32px;
+}
+
+.btn-edit {
+    background: #3b82f6;
+    color: white;
+    padding: 12px 24px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 14px;
+    transition: all 0.2s ease;
+    display: inline-block;
+}
+
+    .btn-edit:hover {
+        background: #2563eb;
+        transform: translateY(-1px);
+        color: white;
+    }
+
+.btn-back {
+    background: white;
+    color: #6b7280;
+    padding: 12px 24px;
+    border-radius: 8px;
+    border: 2px solid #e5e7eb;
+    font-weight: 600;
+    text-decoration: none;
+    display: inline-block;
+    transition: all 0.2s ease;
+}
+
+    .btn-back:hover {
+        background: #f9fafb;
+        border-color: #d1d5db;
+        color: #374151;
+    }

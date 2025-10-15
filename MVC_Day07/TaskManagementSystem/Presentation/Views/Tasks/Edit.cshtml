@@ -1,0 +1,58 @@
+﻿@model TaskItem
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<link rel="stylesheet" href="~/css/TaskEdit.css" />
+
+<div class="page-header">
+    <h1>✏️ Edit Task</h1>
+    <p class="page-subtitle">Update your task details</p>
+</div>
+
+<div class="form-card">
+    <form asp-action="Edit">
+        <div asp-validation-summary="ModelOnly" class="validation-summary"></div>
+
+        <input type="hidden" asp-for="Id" />
+        <input type="hidden" asp-for="CreatedAt" />
+
+        <div class="form-group">
+            <label asp-for="Title">Task Title</label>
+            <input asp-for="Title" class="form-control" placeholder="Enter task title..." />
+            <span asp-validation-for="Title" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Description">Description</label>
+            <input asp-for="Description" class="form-control" placeholder="Enter task description..." />
+            <span asp-validation-for="Description" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <div class="form-check d-flex justify-content-start ps-5 align-items-center">
+                <input class="form-check-input" asp-for="IsCompleted" type="checkbox" id="isCompleted" />
+                <label class="form-check-label" style="margin-bottom:0;" for="isCompleted">
+                    Mark as Completed
+                </label>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="DueDate">Due Date</label>
+            <input asp-for="DueDate" class="form-control" type="date" />
+            <span asp-validation-for="DueDate" class="text-danger"></span>
+        </div>
+
+        <div class="btn-group">
+            <button type="submit" class="btn-primary">Save Changes</button>
+            <a asp-action="Index" class="btn-secondary">Cancel</a>
+        </div>
+    </form>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

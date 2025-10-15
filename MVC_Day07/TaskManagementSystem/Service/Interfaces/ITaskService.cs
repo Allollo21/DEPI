@@ -1,0 +1,14 @@
+﻿using Domain.Models;
+
+namespace Application.Interfaces
+{
+    public interface ITaskService
+    {
+        Task<IEnumerable<TaskItem>> GetAllTasksAsync();
+        Task<IEnumerable<TaskItem>> GetFilteredTasksByCompletionAsync(bool? isCompleted);
+        Task<TaskItem?> GetTaskByIdAsync(int id);
+        Task<TaskItem> CreateTaskAsync(TaskItem task);
+        Task UpdateTaskAsync(TaskItem task);
+        Task DeleteTaskAsync(int id);
+    }
+}
