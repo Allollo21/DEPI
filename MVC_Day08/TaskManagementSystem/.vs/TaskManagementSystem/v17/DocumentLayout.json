@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Depi.Net\\MVC\\Day07\\Ali_Reda_Mohamed_Abdelbaky_MVC_Day07\\TaskManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7210A6CA-4270-476C-8271-8BC3EC51B8A7}|Presentation\\Presentation.csproj|d:\\depi.net\\mvc\\day07\\ali_reda_mohamed_abdelbaky_mvc_day07\\taskmanagementsystem\\presentation\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7210A6CA-4270-476C-8271-8BC3EC51B8A7}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7210A6CA-4270-476C-8271-8BC3EC51B8A7}|Presentation\\Presentation.csproj|d:\\depi.net\\mvc\\day07\\ali_reda_mohamed_abdelbaky_mvc_day07\\taskmanagementsystem\\presentation\\wwwroot\\css\\layout.css||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7210A6CA-4270-476C-8271-8BC3EC51B8A7}|Presentation\\Presentation.csproj|solutionrelative:presentation\\wwwroot\\css\\layout.css||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7210A6CA-4270-476C-8271-8BC3EC51B8A7}|Presentation\\Presentation.csproj|d:\\depi.net\\mvc\\day07\\ali_reda_mohamed_abdelbaky_mvc_day07\\taskmanagementsystem\\presentation\\wwwroot\\css\\taskdelete.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7210A6CA-4270-476C-8271-8BC3EC51B8A7}|Presentation\\Presentation.csproj|solutionrelative:presentation\\wwwroot\\css\\taskdelete.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7210A6CA-4270-476C-8271-8BC3EC51B8A7}|Presentation\\Presentation.csproj|d:\\depi.net\\mvc\\day07\\ali_reda_mohamed_abdelbaky_mvc_day07\\taskmanagementsystem\\presentation\\wwwroot\\css\\taskdetails.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7210A6CA-4270-476C-8271-8BC3EC51B8A7}|Presentation\\Presentation.csproj|solutionrelative:presentation\\wwwroot\\css\\taskdetails.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7210A6CA-4270-476C-8271-8BC3EC51B8A7}|Presentation\\Presentation.csproj|d:\\depi.net\\mvc\\day07\\ali_reda_mohamed_abdelbaky_mvc_day07\\taskmanagementsystem\\presentation\\wwwroot\\css\\taskedit.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7210A6CA-4270-476C-8271-8BC3EC51B8A7}|Presentation\\Presentation.csproj|solutionrelative:presentation\\wwwroot\\css\\taskedit.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7210A6CA-4270-476C-8271-8BC3EC51B8A7}|Presentation\\Presentation.csproj|d:\\depi.net\\mvc\\day07\\ali_reda_mohamed_abdelbaky_mvc_day07\\taskmanagementsystem\\presentation\\wwwroot\\css\\taskindex.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7210A6CA-4270-476C-8271-8BC3EC51B8A7}|Presentation\\Presentation.csproj|solutionrelative:presentation\\wwwroot\\css\\taskindex.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7210A6CA-4270-476C-8271-8BC3EC51B8A7}|Presentation\\Presentation.csproj|d:\\depi.net\\mvc\\day07\\ali_reda_mohamed_abdelbaky_mvc_day07\\taskmanagementsystem\\presentation\\views\\tasks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7210A6CA-4270-476C-8271-8BC3EC51B8A7}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\tasks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7210A6CA-4270-476C-8271-8BC3EC51B8A7}|Presentation\\Presentation.csproj|d:\\depi.net\\mvc\\day07\\ali_reda_mohamed_abdelbaky_mvc_day07\\taskmanagementsystem\\presentation\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7210A6CA-4270-476C-8271-8BC3EC51B8A7}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7210A6CA-4270-476C-8271-8BC3EC51B8A7}|Presentation\\Presentation.csproj|d:\\depi.net\\mvc\\day07\\ali_reda_mohamed_abdelbaky_mvc_day07\\taskmanagementsystem\\presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7210A6CA-4270-476C-8271-8BC3EC51B8A7}|Presentation\\Presentation.csproj|solutionrelative:presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7210A6CA-4270-476C-8271-8BC3EC51B8A7}|Presentation\\Presentation.csproj|d:\\depi.net\\mvc\\day07\\ali_reda_mohamed_abdelbaky_mvc_day07\\taskmanagementsystem\\presentation\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7210A6CA-4270-476C-8271-8BC3EC51B8A7}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Layout.css",
+              "DocumentMoniker": "D:\\Depi.Net\\MVC\\Day07\\Ali_Reda_Mohamed_Abdelbaky_MVC_Day07\\TaskManagementSystem\\Presentation\\wwwroot\\css\\Layout.css",
+              "RelativeDocumentMoniker": "Presentation\\wwwroot\\css\\Layout.css",
+              "ToolTip": "D:\\Depi.Net\\MVC\\Day07\\Ali_Reda_Mohamed_Abdelbaky_MVC_Day07\\TaskManagementSystem\\Presentation\\wwwroot\\css\\Layout.css",
+              "RelativeToolTip": "Presentation\\wwwroot\\css\\Layout.css",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAiwJAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-16T00:22:24.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskDelete.css",
+              "DocumentMoniker": "D:\\Depi.Net\\MVC\\Day07\\Ali_Reda_Mohamed_Abdelbaky_MVC_Day07\\TaskManagementSystem\\Presentation\\wwwroot\\css\\TaskDelete.css",
+              "RelativeDocumentMoniker": "Presentation\\wwwroot\\css\\TaskDelete.css",
+              "ToolTip": "D:\\Depi.Net\\MVC\\Day07\\Ali_Reda_Mohamed_Abdelbaky_MVC_Day07\\TaskManagementSystem\\Presentation\\wwwroot\\css\\TaskDelete.css",
+              "RelativeToolTip": "Presentation\\wwwroot\\css\\TaskDelete.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-16T00:21:16.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskDetails.css",
+              "DocumentMoniker": "D:\\Depi.Net\\MVC\\Day07\\Ali_Reda_Mohamed_Abdelbaky_MVC_Day07\\TaskManagementSystem\\Presentation\\wwwroot\\css\\TaskDetails.css",
+              "RelativeDocumentMoniker": "Presentation\\wwwroot\\css\\TaskDetails.css",
+              "ToolTip": "D:\\Depi.Net\\MVC\\Day07\\Ali_Reda_Mohamed_Abdelbaky_MVC_Day07\\TaskManagementSystem\\Presentation\\wwwroot\\css\\TaskDetails.css",
+              "RelativeToolTip": "Presentation\\wwwroot\\css\\TaskDetails.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-16T00:20:41.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskEdit.css",
+              "DocumentMoniker": "D:\\Depi.Net\\MVC\\Day07\\Ali_Reda_Mohamed_Abdelbaky_MVC_Day07\\TaskManagementSystem\\Presentation\\wwwroot\\css\\TaskEdit.css",
+              "RelativeDocumentMoniker": "Presentation\\wwwroot\\css\\TaskEdit.css",
+              "ToolTip": "D:\\Depi.Net\\MVC\\Day07\\Ali_Reda_Mohamed_Abdelbaky_MVC_Day07\\TaskManagementSystem\\Presentation\\wwwroot\\css\\TaskEdit.css",
+              "RelativeToolTip": "Presentation\\wwwroot\\css\\TaskEdit.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-16T00:20:23.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskIndex.css",
+              "DocumentMoniker": "D:\\Depi.Net\\MVC\\Day07\\Ali_Reda_Mohamed_Abdelbaky_MVC_Day07\\TaskManagementSystem\\Presentation\\wwwroot\\css\\TaskIndex.css",
+              "RelativeDocumentMoniker": "Presentation\\wwwroot\\css\\TaskIndex.css",
+              "ToolTip": "D:\\Depi.Net\\MVC\\Day07\\Ali_Reda_Mohamed_Abdelbaky_MVC_Day07\\TaskManagementSystem\\Presentation\\wwwroot\\css\\TaskIndex.css",
+              "RelativeToolTip": "Presentation\\wwwroot\\css\\TaskIndex.css",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-15T23:45:55.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Depi.Net\\MVC\\Day07\\Ali_Reda_Mohamed_Abdelbaky_MVC_Day07\\TaskManagementSystem\\Presentation\\Views\\Tasks\\Index.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Views\\Tasks\\Index.cshtml",
+              "ToolTip": "D:\\Depi.Net\\MVC\\Day07\\Ali_Reda_Mohamed_Abdelbaky_MVC_Day07\\TaskManagementSystem\\Presentation\\Views\\Tasks\\Index.cshtml",
+              "RelativeToolTip": "Presentation\\Views\\Tasks\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwH8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-15T22:00:57.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Depi.Net\\MVC\\Day07\\Ali_Reda_Mohamed_Abdelbaky_MVC_Day07\\TaskManagementSystem\\Presentation\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Depi.Net\\MVC\\Day07\\Ali_Reda_Mohamed_Abdelbaky_MVC_Day07\\TaskManagementSystem\\Presentation\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Presentation\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAsBAAAAAAAAAAAAADoBAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-15T21:16:57.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Depi.Net\\MVC\\Day07\\Ali_Reda_Mohamed_Abdelbaky_MVC_Day07\\TaskManagementSystem\\Presentation\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Depi.Net\\MVC\\Day07\\Ali_Reda_Mohamed_Abdelbaky_MVC_Day07\\TaskManagementSystem\\Presentation\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Presentation\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-15T21:12:15.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "D:\\Depi.Net\\MVC\\Day07\\Ali_Reda_Mohamed_Abdelbaky_MVC_Day07\\TaskManagementSystem\\Presentation\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\TasksController.cs",
+              "ToolTip": "D:\\Depi.Net\\MVC\\Day07\\Ali_Reda_Mohamed_Abdelbaky_MVC_Day07\\TaskManagementSystem\\Presentation\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\TasksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T20:55:41.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Depi.Net\\MVC\\Day07\\Ali_Reda_Mohamed_Abdelbaky_MVC_Day07\\TaskManagementSystem\\Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation\\Program.cs",
+              "ToolTip": "D:\\Depi.Net\\MVC\\Day07\\Ali_Reda_Mohamed_Abdelbaky_MVC_Day07\\TaskManagementSystem\\Presentation\\Program.cs",
+              "RelativeToolTip": "Presentation\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwDEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T18:27:34.59Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

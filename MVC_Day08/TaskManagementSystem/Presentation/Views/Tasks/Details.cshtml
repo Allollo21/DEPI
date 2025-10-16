@@ -1,0 +1,61 @@
+﻿@model TaskItem
+@{
+    ViewData["Title"] = "Details";
+}
+
+<link rel="stylesheet" href="~/css/TaskDetails.css" />
+
+<div class="page-header">
+    <h1>📄 Task Details</h1>
+    <p class="page-subtitle">View complete task information</p>
+</div>
+
+<div class="details-card">
+    <div class="detail-row">
+        <div class="detail-label">Title</div>
+        <div class="detail-value">@Model.Title</div>
+    </div>
+
+    <div class="detail-row">
+        <div class="detail-label">Description</div>
+        <div class="detail-value">@(string.IsNullOrEmpty(Model.Description) ? "No description provided" : Model.Description)</div>
+    </div>
+
+    <div class="detail-row">
+        <div class="detail-label">Status</div>
+        <div class="detail-value">
+            @if (Model.IsCompleted)
+            {
+                <span class="status-badge status-completed">✓ Completed</span>
+            }
+            else
+            {
+                <span class="status-badge status-pending">⏳ Pending</span>
+            }
+        </div>
+    </div>
+
+    <div class="detail-row">
+        <div class="detail-label">Created At</div>
+        <div class="detail-value">@Model.CreatedAt.ToString("MMMM dd, yyyy 'at' hh:mm tt")</div>
+    </div>
+
+    <div class="detail-row">
+        <div class="detail-label">Due Date</div>
+        <div class="detail-value">
+            @if (Model.DueDate.HasValue)
+            {
+                @Model.DueDate.Value.ToString("MMMM dd, yyyy")
+            }
+            else
+            {
+                <span style="color: #9ca3af;">No due date set</span>
+            }
+        </div>
+    </div>
+
+    <div class="btn-group">
+        <a asp-action="Edit" asp-route-id="@Model.Id" class="btn-edit">Edit Task</a>
+        <a asp-action="Index" class="btn-back">Back to List</a>
+    </div>
+</div>

@@ -1,0 +1,128 @@
+﻿@model IEnumerable<TaskItem>
+
+@{
+    ViewData["Title"] = "Tasks";
+    bool? currentCompleted = ViewBag.CurrentCompleted;
+    string? currentSort = ViewBag.CurrentSort;
+}
+
+<link rel="stylesheet" href="~/css/TaskIndex.css" />
+
+<div class="page-header">
+    <h1>📋 My Tasks</h1>
+    <a asp-action="Create" class="btn-create">+ Create New Task</a>
+</div>
+
+<div class="filters-card">
+    <div class="filter-section">
+        <div class="filter-label">
+            <span>🎯</span> Filter by Status
+        </div>
+        <div class="filter-buttons">
+            <a asp-action="Index" asp-route-sortBy="@currentSort"
+               class="filter-btn @(currentCompleted == null ? "active" : "")">
+                All Tasks
+            </a>
+            <a asp-action="Index" asp-route-completed="false" asp-route-sortBy="@currentSort"
+               class="filter-btn @(currentCompleted == false ? "active" : "")">
+                Incomplete
+            </a>
+            <a asp-action="Index" asp-route-completed="true" asp-route-sortBy="@currentSort"
+               class="filter-btn @(currentCompleted == true ? "active" : "")">
+                Completed
+            </a>
+        </div>
+    </div>
+
+    <div class="filter-section">
+        <div class="filter-label">
+            <span>🔄</span> Sort by
+        </div>
+        <div class="filter-buttons">
+            <a asp-action="Index" asp-route-completed="@currentCompleted"
+               class="filter-btn @(string.IsNullOrEmpty(currentSort) ? "active" : "")">
+                Default
+            </a>
+            <a asp-action="Index" asp-route-completed="@currentCompleted" asp-route-sortBy="DueDate"
+               class="filter-btn @(currentSort == "DueDate" ? "active" : "")">
+                Due Date
+            </a>
+            <a asp-action="Index" asp-route-completed="@currentCompleted" asp-route-sortBy="Title"
+               class="filter-btn @(currentSort == "Title" ? "active" : "")">
+                Title
+            </a>
+        </div>
+    </div>
+</div>
+
+@if (Model.Any())
+{
+    <div class="tasks-container">
+        <table class="tasks-table">
+            <thead>
+                <tr>
+                    <th>Title</th>
+                    <th>Description</th>
+                    <th>Status</th>
+                    <th>Created</th>
+                    <th>Due Date</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            <div class="task-title">@item.Title</div>
+                        </td>
+                        <td>
+                            <div class="task-description">@item.Description</div>
+                        </td>
+                        <td>
+                            @if (item.IsCompleted)
+                            {
+                                <span class="status-badge status-completed">
+                                    ✓ Completed
+                                </span>
+                            }
+                            else
+                            {
+                                <span class="status-badge status-pending">
+                                    ⏳ Pending
+                                </span>
+                            }
+                        </td>
+                        <td>
+                            <div class="date-display">
+                                @item.CreatedAt.ToString("MMM dd, yyyy")
+                            </div>
+                        </td>
+                        <td>
+                            <div class="date-display">
+                                @(item.DueDate.HasValue? item.DueDate.Value.ToString("MMM dd, yyyy") : "N/A")
+                            </div>
+                        </td>
+                        <td>
+                            <div class="action-buttons">
+                                <a asp-action="Edit" asp-route-id="@item.Id" class="btn-action btn-edit">Edit</a>
+                                <a asp-action="Details" asp-route-id="@item.Id" class="btn-action btn-details">Details</a>
+                                <a asp-action="Delete" asp-route-id="@item.Id" class="btn-action btn-delete">Delete</a>
+                            </div>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+}
+else
+{
+    <div class="tasks-container">
+        <div class="no-tasks">
+            <div class="no-tasks-icon">📭</div>
+            <h3>No tasks found</h3>
+            <p>Create your first task to get started!</p>
+        </div>
+    </div>
+}
