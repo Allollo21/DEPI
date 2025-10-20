@@ -1,0 +1,18 @@
+﻿@model TaskItem
+@{
+    ViewData["Title"] = "Details";
+}
+
+<link rel="stylesheet" href="~/css/TaskDetails.css" />
+
+<div class="page-header">
+    <h1>📄 Task Details</h1>
+    <p class="page-subtitle">View complete task information</p>
+</div>
+
+<partial name="_TaskDetailsPartial" model="@Model" />
+
+<div class="btn-group">
+    <a asp-action="Edit" asp-route-id="@Model.Id" class="btn-edit">Edit Task</a>
+    <a asp-action="Index" class="btn-back">Back to List</a>
+</div>

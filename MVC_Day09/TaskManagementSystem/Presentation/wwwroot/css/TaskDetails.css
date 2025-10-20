@@ -1,0 +1,68 @@
+﻿:root {
+    --primary-gradient: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}
+
+.page-header {
+    margin-bottom: 30px;
+    /*padding-bottom: 20px;*/
+    /*border-bottom: 3px solid #f0f0f0;*/
+}
+
+    .page-header h1 {
+        margin: 0;
+        background: var(--primary-gradient);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-clip: text;
+        font-weight: 700;
+        font-size: 2.2rem;
+    }
+
+.page-subtitle {
+    color: #6b7280;
+    font-size: 1.1rem;
+    margin-top: 8px;
+}
+
+.btn-group {
+    display: flex;
+    gap: 12px;
+    margin-top: 32px;
+}
+
+.btn-edit {
+    background: #3b82f6;
+    color: white;
+    padding: 12px 24px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 14px;
+    transition: all 0.2s ease;
+    display: inline-block;
+    align-content: center;
+}
+
+    .btn-edit:hover {
+        background: #2563eb;
+        transform: translateY(-1px);
+        color: white;
+    }
+
+.btn-back {
+    background: white;
+    color: #6b7280;
+    padding: 12px 24px;
+    border-radius: 8px;
+    border: 2px solid #e5e7eb;
+    font-weight: 600;
+    text-decoration: none;
+    display: inline-block;
+    transition: all 0.2s ease;
+}
+
+    .btn-back:hover {
+        background: #f9fafb;
+        border-color: #d1d5db;
+        color: #374151;
+    }
