@@ -1,0 +1,65 @@
+﻿@model List<Department>
+
+    <style>
+        .card {
+            margin-bottom: 20px;
+        }
+
+        .table-sm {
+            font-size: 0.9rem;
+        }
+
+        .card-header {
+            background-color: #007bff;
+            color: white;
+        }
+
+        h3 a,
+        div a {
+            text-decoration: none;
+            color: inherit;
+        }
+
+        a:hover,
+        a:visited,
+        a:active {
+            text-decoration: none;
+            color: inherit;
+        }
+
+    </style>
+
+    <div class="container my-5">
+        <h1 class="mb-4">Departments</h1>
+        <p><b>Tip:</b> Press on the department name to show details </p>
+        <a class="btn btn-outline-primary mb-3" href="/Department/Add">New Department</a>
+
+        @if (Model == null || !Model.Any())
+        {
+            <div class="alert alert-info" role="alert">
+                No departments found.
+            </div>
+        }
+        else
+        {
+            @foreach (var department in Model)
+            {
+                <div class="card">
+                    <div class="card-header">
+                        <h3 class="card-title mb-0"><a href="/Department/ShowDetails?id=@department.Id">@department.Name</a></h3>
+                        <p class="mb-0">Manager: @(department.MgrName ?? "N/A")</p>
+                        <a href="/Department/ShowDetailsVM?id=@department.Id" style="color: blueviolet; display:block;" class="mb-2">Details Using View Model > </a>
+                        <a href="/Department/Edit/@department.Id" class="btn btn-sm btn-warning">Edit</a>
+                    </div>
+                </div>
+            }
+        }
+    </div>
+
+@section Scripts {
+
+    @* <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous"> *@
+    <link href="~/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+    @* <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script> *@
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+}

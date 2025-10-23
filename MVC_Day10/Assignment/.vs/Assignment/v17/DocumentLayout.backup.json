@@ -1,0 +1,475 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Depi.Net\\MVC\\Day10\\Ali_Reda_Mohamed_Abdelbaky_MVC_Day10\\Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBEE93A7-44C1-458C-ADD3-EDB69AD7544F}|Assignment\\Assignment.csproj|d:\\depi.net\\mvc\\day10\\ali_reda_mohamed_abdelbaky_mvc_day10\\assignment\\assignment\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBEE93A7-44C1-458C-ADD3-EDB69AD7544F}|Assignment\\Assignment.csproj|solutionrelative:assignment\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBEE93A7-44C1-458C-ADD3-EDB69AD7544F}|Assignment\\Assignment.csproj|d:\\depi.net\\mvc\\day10\\ali_reda_mohamed_abdelbaky_mvc_day10\\assignment\\assignment\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBEE93A7-44C1-458C-ADD3-EDB69AD7544F}|Assignment\\Assignment.csproj|solutionrelative:assignment\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBEE93A7-44C1-458C-ADD3-EDB69AD7544F}|Assignment\\Assignment.csproj|d:\\depi.net\\mvc\\day10\\ali_reda_mohamed_abdelbaky_mvc_day10\\assignment\\assignment\\views\\shared\\_customlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBEE93A7-44C1-458C-ADD3-EDB69AD7544F}|Assignment\\Assignment.csproj|solutionrelative:assignment\\views\\shared\\_customlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBEE93A7-44C1-458C-ADD3-EDB69AD7544F}|Assignment\\Assignment.csproj|d:\\depi.net\\mvc\\day10\\ali_reda_mohamed_abdelbaky_mvc_day10\\assignment\\assignment\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBEE93A7-44C1-458C-ADD3-EDB69AD7544F}|Assignment\\Assignment.csproj|solutionrelative:assignment\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBEE93A7-44C1-458C-ADD3-EDB69AD7544F}|Assignment\\Assignment.csproj|d:\\depi.net\\mvc\\day10\\ali_reda_mohamed_abdelbaky_mvc_day10\\assignment\\assignment\\data\\databaseseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBEE93A7-44C1-458C-ADD3-EDB69AD7544F}|Assignment\\Assignment.csproj|solutionrelative:assignment\\data\\databaseseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBEE93A7-44C1-458C-ADD3-EDB69AD7544F}|Assignment\\Assignment.csproj|d:\\depi.net\\mvc\\day10\\ali_reda_mohamed_abdelbaky_mvc_day10\\assignment\\assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBEE93A7-44C1-458C-ADD3-EDB69AD7544F}|Assignment\\Assignment.csproj|solutionrelative:assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBEE93A7-44C1-458C-ADD3-EDB69AD7544F}|Assignment\\Assignment.csproj|d:\\depi.net\\mvc\\day10\\ali_reda_mohamed_abdelbaky_mvc_day10\\assignment\\assignment\\controllers\\instructorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBEE93A7-44C1-458C-ADD3-EDB69AD7544F}|Assignment\\Assignment.csproj|solutionrelative:assignment\\controllers\\instructorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBEE93A7-44C1-458C-ADD3-EDB69AD7544F}|Assignment\\Assignment.csproj|d:\\depi.net\\mvc\\day10\\ali_reda_mohamed_abdelbaky_mvc_day10\\assignment\\assignment\\views\\instructor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBEE93A7-44C1-458C-ADD3-EDB69AD7544F}|Assignment\\Assignment.csproj|solutionrelative:assignment\\views\\instructor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBEE93A7-44C1-458C-ADD3-EDB69AD7544F}|Assignment\\Assignment.csproj|d:\\depi.net\\mvc\\day10\\ali_reda_mohamed_abdelbaky_mvc_day10\\assignment\\assignment\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBEE93A7-44C1-458C-ADD3-EDB69AD7544F}|Assignment\\Assignment.csproj|solutionrelative:assignment\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBEE93A7-44C1-458C-ADD3-EDB69AD7544F}|Assignment\\Assignment.csproj|d:\\depi.net\\mvc\\day10\\ali_reda_mohamed_abdelbaky_mvc_day10\\assignment\\assignment\\views\\role\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBEE93A7-44C1-458C-ADD3-EDB69AD7544F}|Assignment\\Assignment.csproj|solutionrelative:assignment\\views\\role\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBEE93A7-44C1-458C-ADD3-EDB69AD7544F}|Assignment\\Assignment.csproj|d:\\depi.net\\mvc\\day10\\ali_reda_mohamed_abdelbaky_mvc_day10\\assignment\\assignment\\views\\role\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBEE93A7-44C1-458C-ADD3-EDB69AD7544F}|Assignment\\Assignment.csproj|solutionrelative:assignment\\views\\role\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBEE93A7-44C1-458C-ADD3-EDB69AD7544F}|Assignment\\Assignment.csproj|d:\\depi.net\\mvc\\day10\\ali_reda_mohamed_abdelbaky_mvc_day10\\assignment\\assignment\\models\\viewmodels\\createroleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBEE93A7-44C1-458C-ADD3-EDB69AD7544F}|Assignment\\Assignment.csproj|solutionrelative:assignment\\models\\viewmodels\\createroleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBEE93A7-44C1-458C-ADD3-EDB69AD7544F}|Assignment\\Assignment.csproj|d:\\depi.net\\mvc\\day10\\ali_reda_mohamed_abdelbaky_mvc_day10\\assignment\\assignment\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBEE93A7-44C1-458C-ADD3-EDB69AD7544F}|Assignment\\Assignment.csproj|solutionrelative:assignment\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBEE93A7-44C1-458C-ADD3-EDB69AD7544F}|Assignment\\Assignment.csproj|d:\\depi.net\\mvc\\day10\\ali_reda_mohamed_abdelbaky_mvc_day10\\assignment\\assignment\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBEE93A7-44C1-458C-ADD3-EDB69AD7544F}|Assignment\\Assignment.csproj|solutionrelative:assignment\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBEE93A7-44C1-458C-ADD3-EDB69AD7544F}|Assignment\\Assignment.csproj|d:\\depi.net\\mvc\\day10\\ali_reda_mohamed_abdelbaky_mvc_day10\\assignment\\assignment\\views\\admin\\registeruser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBEE93A7-44C1-458C-ADD3-EDB69AD7544F}|Assignment\\Assignment.csproj|solutionrelative:assignment\\views\\admin\\registeruser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBEE93A7-44C1-458C-ADD3-EDB69AD7544F}|Assignment\\Assignment.csproj|d:\\depi.net\\mvc\\day10\\ali_reda_mohamed_abdelbaky_mvc_day10\\assignment\\assignment\\models\\viewmodels\\adminregisterviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBEE93A7-44C1-458C-ADD3-EDB69AD7544F}|Assignment\\Assignment.csproj|solutionrelative:assignment\\models\\viewmodels\\adminregisterviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBEE93A7-44C1-458C-ADD3-EDB69AD7544F}|Assignment\\Assignment.csproj|d:\\depi.net\\mvc\\day10\\ali_reda_mohamed_abdelbaky_mvc_day10\\assignment\\assignment\\views\\admin\\addroletouser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBEE93A7-44C1-458C-ADD3-EDB69AD7544F}|Assignment\\Assignment.csproj|solutionrelative:assignment\\views\\admin\\addroletouser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBEE93A7-44C1-458C-ADD3-EDB69AD7544F}|Assignment\\Assignment.csproj|d:\\depi.net\\mvc\\day10\\ali_reda_mohamed_abdelbaky_mvc_day10\\assignment\\assignment\\models\\viewmodels\\addroleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBEE93A7-44C1-458C-ADD3-EDB69AD7544F}|Assignment\\Assignment.csproj|solutionrelative:assignment\\models\\viewmodels\\addroleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBEE93A7-44C1-458C-ADD3-EDB69AD7544F}|Assignment\\Assignment.csproj|d:\\depi.net\\mvc\\day10\\ali_reda_mohamed_abdelbaky_mvc_day10\\assignment\\assignment\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBEE93A7-44C1-458C-ADD3-EDB69AD7544F}|Assignment\\Assignment.csproj|solutionrelative:assignment\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBEE93A7-44C1-458C-ADD3-EDB69AD7544F}|Assignment\\Assignment.csproj|d:\\depi.net\\mvc\\day10\\ali_reda_mohamed_abdelbaky_mvc_day10\\assignment\\assignment\\models\\studentcourseresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBEE93A7-44C1-458C-ADD3-EDB69AD7544F}|Assignment\\Assignment.csproj|solutionrelative:assignment\\models\\studentcourseresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBEE93A7-44C1-458C-ADD3-EDB69AD7544F}|Assignment\\Assignment.csproj|d:\\depi.net\\mvc\\day10\\ali_reda_mohamed_abdelbaky_mvc_day10\\assignment\\assignment\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBEE93A7-44C1-458C-ADD3-EDB69AD7544F}|Assignment\\Assignment.csproj|solutionrelative:assignment\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBEE93A7-44C1-458C-ADD3-EDB69AD7544F}|Assignment\\Assignment.csproj|d:\\depi.net\\mvc\\day10\\ali_reda_mohamed_abdelbaky_mvc_day10\\assignment\\assignment\\models\\departmentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBEE93A7-44C1-458C-ADD3-EDB69AD7544F}|Assignment\\Assignment.csproj|solutionrelative:assignment\\models\\departmentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBEE93A7-44C1-458C-ADD3-EDB69AD7544F}|Assignment\\Assignment.csproj|d:\\depi.net\\mvc\\day10\\ali_reda_mohamed_abdelbaky_mvc_day10\\assignment\\assignment\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBEE93A7-44C1-458C-ADD3-EDB69AD7544F}|Assignment\\Assignment.csproj|solutionrelative:assignment\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBEE93A7-44C1-458C-ADD3-EDB69AD7544F}|Assignment\\Assignment.csproj|d:\\depi.net\\mvc\\day10\\ali_reda_mohamed_abdelbaky_mvc_day10\\assignment\\assignment\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBEE93A7-44C1-458C-ADD3-EDB69AD7544F}|Assignment\\Assignment.csproj|solutionrelative:assignment\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBEE93A7-44C1-458C-ADD3-EDB69AD7544F}|Assignment\\Assignment.csproj|d:\\depi.net\\mvc\\day10\\ali_reda_mohamed_abdelbaky_mvc_day10\\assignment\\assignment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EBEE93A7-44C1-458C-ADD3-EDB69AD7544F}|Assignment\\Assignment.csproj|solutionrelative:assignment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBEE93A7-44C1-458C-ADD3-EDB69AD7544F}|Assignment\\Assignment.csproj|d:\\depi.net\\mvc\\day10\\ali_reda_mohamed_abdelbaky_mvc_day10\\assignment\\assignment\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBEE93A7-44C1-458C-ADD3-EDB69AD7544F}|Assignment\\Assignment.csproj|solutionrelative:assignment\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBEE93A7-44C1-458C-ADD3-EDB69AD7544F}|Assignment\\Assignment.csproj|d:\\depi.net\\mvc\\day10\\ali_reda_mohamed_abdelbaky_mvc_day10\\assignment\\assignment\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBEE93A7-44C1-458C-ADD3-EDB69AD7544F}|Assignment\\Assignment.csproj|solutionrelative:assignment\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBEE93A7-44C1-458C-ADD3-EDB69AD7544F}|Assignment\\Assignment.csproj|d:\\depi.net\\mvc\\day10\\ali_reda_mohamed_abdelbaky_mvc_day10\\assignment\\assignment\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBEE93A7-44C1-458C-ADD3-EDB69AD7544F}|Assignment\\Assignment.csproj|solutionrelative:assignment\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Depi.Net\\MVC\\Day10\\Ali_Reda_Mohamed_Abdelbaky_MVC_Day10\\Assignment\\Assignment\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Assignment\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "D:\\Depi.Net\\MVC\\Day10\\Ali_Reda_Mohamed_Abdelbaky_MVC_Day10\\Assignment\\Assignment\\Views\\Admin\\Index.cshtml*",
+              "RelativeToolTip": "Assignment\\Views\\Admin\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-23T18:48:19.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InstructorController.cs",
+              "DocumentMoniker": "D:\\Depi.Net\\MVC\\Day10\\Ali_Reda_Mohamed_Abdelbaky_MVC_Day10\\Assignment\\Assignment\\Controllers\\InstructorController.cs",
+              "RelativeDocumentMoniker": "Assignment\\Controllers\\InstructorController.cs",
+              "ToolTip": "D:\\Depi.Net\\MVC\\Day10\\Ali_Reda_Mohamed_Abdelbaky_MVC_Day10\\Assignment\\Assignment\\Controllers\\InstructorController.cs",
+              "RelativeToolTip": "Assignment\\Controllers\\InstructorController.cs",
+              "ViewState": "AgIAABIAAABgZmZmZmYowBsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T16:48:49.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "D:\\Depi.Net\\MVC\\Day10\\Ali_Reda_Mohamed_Abdelbaky_MVC_Day10\\Assignment\\Assignment\\Models\\Instructor.cs",
+              "RelativeDocumentMoniker": "Assignment\\Models\\Instructor.cs",
+              "ToolTip": "D:\\Depi.Net\\MVC\\Day10\\Ali_Reda_Mohamed_Abdelbaky_MVC_Day10\\Assignment\\Assignment\\Models\\Instructor.cs",
+              "RelativeToolTip": "Assignment\\Models\\Instructor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T16:41:03.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DatabaseSeeder.cs",
+              "DocumentMoniker": "D:\\Depi.Net\\MVC\\Day10\\Ali_Reda_Mohamed_Abdelbaky_MVC_Day10\\Assignment\\Assignment\\Data\\DatabaseSeeder.cs",
+              "RelativeDocumentMoniker": "Assignment\\Data\\DatabaseSeeder.cs",
+              "ToolTip": "D:\\Depi.Net\\MVC\\Day10\\Ali_Reda_Mohamed_Abdelbaky_MVC_Day10\\Assignment\\Assignment\\Data\\DatabaseSeeder.cs",
+              "RelativeToolTip": "Assignment\\Data\\DatabaseSeeder.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAAwLUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T16:36:07.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Depi.Net\\MVC\\Day10\\Ali_Reda_Mohamed_Abdelbaky_MVC_Day10\\Assignment\\Assignment\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment\\Program.cs",
+              "ToolTip": "D:\\Depi.Net\\MVC\\Day10\\Ali_Reda_Mohamed_Abdelbaky_MVC_Day10\\Assignment\\Assignment\\Program.cs",
+              "RelativeToolTip": "Assignment\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T13:19:25.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Depi.Net\\MVC\\Day10\\Ali_Reda_Mohamed_Abdelbaky_MVC_Day10\\Assignment\\Assignment\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Assignment\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Depi.Net\\MVC\\Day10\\Ali_Reda_Mohamed_Abdelbaky_MVC_Day10\\Assignment\\Assignment\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Assignment\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAACgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-23T13:27:10.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_CustomLayout.cshtml",
+              "DocumentMoniker": "D:\\Depi.Net\\MVC\\Day10\\Ali_Reda_Mohamed_Abdelbaky_MVC_Day10\\Assignment\\Assignment\\Views\\Shared\\_CustomLayout.cshtml",
+              "RelativeDocumentMoniker": "Assignment\\Views\\Shared\\_CustomLayout.cshtml",
+              "ToolTip": "D:\\Depi.Net\\MVC\\Day10\\Ali_Reda_Mohamed_Abdelbaky_MVC_Day10\\Assignment\\Assignment\\Views\\Shared\\_CustomLayout.cshtml",
+              "RelativeToolTip": "Assignment\\Views\\Shared\\_CustomLayout.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAQwCMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-23T13:25:27.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\Depi.Net\\MVC\\Day10\\Ali_Reda_Mohamed_Abdelbaky_MVC_Day10\\Assignment\\Assignment\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Assignment\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\Depi.Net\\MVC\\Day10\\Ali_Reda_Mohamed_Abdelbaky_MVC_Day10\\Assignment\\Assignment\\Controllers\\AdminController.cs*",
+              "RelativeToolTip": "Assignment\\Controllers\\AdminController.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T15:55:17.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "D:\\Depi.Net\\MVC\\Day10\\Ali_Reda_Mohamed_Abdelbaky_MVC_Day10\\Assignment\\Assignment\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "Assignment\\Controllers\\RoleController.cs",
+              "ToolTip": "D:\\Depi.Net\\MVC\\Day10\\Ali_Reda_Mohamed_Abdelbaky_MVC_Day10\\Assignment\\Assignment\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "Assignment\\Controllers\\RoleController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T16:43:05.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateRoleViewModel.cs",
+              "DocumentMoniker": "D:\\Depi.Net\\MVC\\Day10\\Ali_Reda_Mohamed_Abdelbaky_MVC_Day10\\Assignment\\Assignment\\Models\\ViewModels\\CreateRoleViewModel.cs",
+              "RelativeDocumentMoniker": "Assignment\\Models\\ViewModels\\CreateRoleViewModel.cs",
+              "ToolTip": "D:\\Depi.Net\\MVC\\Day10\\Ali_Reda_Mohamed_Abdelbaky_MVC_Day10\\Assignment\\Assignment\\Models\\ViewModels\\CreateRoleViewModel.cs",
+              "RelativeToolTip": "Assignment\\Models\\ViewModels\\CreateRoleViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T16:52:08.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Depi.Net\\MVC\\Day10\\Ali_Reda_Mohamed_Abdelbaky_MVC_Day10\\Assignment\\Assignment\\Views\\Role\\Index.cshtml",
+              "RelativeDocumentMoniker": "Assignment\\Views\\Role\\Index.cshtml",
+              "ToolTip": "D:\\Depi.Net\\MVC\\Day10\\Ali_Reda_Mohamed_Abdelbaky_MVC_Day10\\Assignment\\Assignment\\Views\\Role\\Index.cshtml",
+              "RelativeToolTip": "Assignment\\Views\\Role\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-23T16:52:54.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Depi.Net\\MVC\\Day10\\Ali_Reda_Mohamed_Abdelbaky_MVC_Day10\\Assignment\\Assignment\\Views\\Role\\Create.cshtml",
+              "RelativeDocumentMoniker": "Assignment\\Views\\Role\\Create.cshtml",
+              "ToolTip": "D:\\Depi.Net\\MVC\\Day10\\Ali_Reda_Mohamed_Abdelbaky_MVC_Day10\\Assignment\\Assignment\\Views\\Role\\Create.cshtml",
+              "RelativeToolTip": "Assignment\\Views\\Role\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-23T16:53:59.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Depi.Net\\MVC\\Day10\\Ali_Reda_Mohamed_Abdelbaky_MVC_Day10\\Assignment\\Assignment\\Views\\Instructor\\Index.cshtml",
+              "RelativeDocumentMoniker": "Assignment\\Views\\Instructor\\Index.cshtml",
+              "ToolTip": "D:\\Depi.Net\\MVC\\Day10\\Ali_Reda_Mohamed_Abdelbaky_MVC_Day10\\Assignment\\Assignment\\Views\\Instructor\\Index.cshtml",
+              "RelativeToolTip": "Assignment\\Views\\Instructor\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-23T17:05:14.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RegisterUser.cshtml",
+              "DocumentMoniker": "D:\\Depi.Net\\MVC\\Day10\\Ali_Reda_Mohamed_Abdelbaky_MVC_Day10\\Assignment\\Assignment\\Views\\Admin\\RegisterUser.cshtml",
+              "RelativeDocumentMoniker": "Assignment\\Views\\Admin\\RegisterUser.cshtml",
+              "ToolTip": "D:\\Depi.Net\\MVC\\Day10\\Ali_Reda_Mohamed_Abdelbaky_MVC_Day10\\Assignment\\Assignment\\Views\\Admin\\RegisterUser.cshtml",
+              "RelativeToolTip": "Assignment\\Views\\Admin\\RegisterUser.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-23T16:34:28.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AdminRegisterViewModel.cs",
+              "DocumentMoniker": "D:\\Depi.Net\\MVC\\Day10\\Ali_Reda_Mohamed_Abdelbaky_MVC_Day10\\Assignment\\Assignment\\Models\\ViewModels\\AdminRegisterViewModel.cs",
+              "RelativeDocumentMoniker": "Assignment\\Models\\ViewModels\\AdminRegisterViewModel.cs",
+              "ToolTip": "D:\\Depi.Net\\MVC\\Day10\\Ali_Reda_Mohamed_Abdelbaky_MVC_Day10\\Assignment\\Assignment\\Models\\ViewModels\\AdminRegisterViewModel.cs",
+              "RelativeToolTip": "Assignment\\Models\\ViewModels\\AdminRegisterViewModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwBAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T16:31:01.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddRoleToUser.cshtml",
+              "DocumentMoniker": "D:\\Depi.Net\\MVC\\Day10\\Ali_Reda_Mohamed_Abdelbaky_MVC_Day10\\Assignment\\Assignment\\Views\\Admin\\AddRoleToUser.cshtml",
+              "RelativeDocumentMoniker": "Assignment\\Views\\Admin\\AddRoleToUser.cshtml",
+              "ToolTip": "D:\\Depi.Net\\MVC\\Day10\\Ali_Reda_Mohamed_Abdelbaky_MVC_Day10\\Assignment\\Assignment\\Views\\Admin\\AddRoleToUser.cshtml",
+              "RelativeToolTip": "Assignment\\Views\\Admin\\AddRoleToUser.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-23T16:23:41.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AddRoleViewModel.cs",
+              "DocumentMoniker": "D:\\Depi.Net\\MVC\\Day10\\Ali_Reda_Mohamed_Abdelbaky_MVC_Day10\\Assignment\\Assignment\\Models\\ViewModels\\AddRoleViewModel.cs",
+              "RelativeDocumentMoniker": "Assignment\\Models\\ViewModels\\AddRoleViewModel.cs",
+              "ToolTip": "D:\\Depi.Net\\MVC\\Day10\\Ali_Reda_Mohamed_Abdelbaky_MVC_Day10\\Assignment\\Assignment\\Models\\ViewModels\\AddRoleViewModel.cs",
+              "RelativeToolTip": "Assignment\\Models\\ViewModels\\AddRoleViewModel.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T15:55:58.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\Depi.Net\\MVC\\Day10\\Ali_Reda_Mohamed_Abdelbaky_MVC_Day10\\Assignment\\Assignment\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Assignment\\Models\\Course.cs",
+              "ToolTip": "D:\\Depi.Net\\MVC\\Day10\\Ali_Reda_Mohamed_Abdelbaky_MVC_Day10\\Assignment\\Assignment\\Models\\Course.cs",
+              "RelativeToolTip": "Assignment\\Models\\Course.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T15:53:10.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "D:\\Depi.Net\\MVC\\Day10\\Ali_Reda_Mohamed_Abdelbaky_MVC_Day10\\Assignment\\Assignment\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "Assignment\\Models\\Teacher.cs",
+              "ToolTip": "D:\\Depi.Net\\MVC\\Day10\\Ali_Reda_Mohamed_Abdelbaky_MVC_Day10\\Assignment\\Assignment\\Models\\Teacher.cs",
+              "RelativeToolTip": "Assignment\\Models\\Teacher.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA9wB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T15:53:55.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StudentCourseResult.cs",
+              "DocumentMoniker": "D:\\Depi.Net\\MVC\\Day10\\Ali_Reda_Mohamed_Abdelbaky_MVC_Day10\\Assignment\\Assignment\\Models\\StudentCourseResult.cs",
+              "RelativeDocumentMoniker": "Assignment\\Models\\StudentCourseResult.cs",
+              "ToolTip": "D:\\Depi.Net\\MVC\\Day10\\Ali_Reda_Mohamed_Abdelbaky_MVC_Day10\\Assignment\\Assignment\\Models\\StudentCourseResult.cs",
+              "RelativeToolTip": "Assignment\\Models\\StudentCourseResult.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA9wBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T15:53:50.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Depi.Net\\MVC\\Day10\\Ali_Reda_Mohamed_Abdelbaky_MVC_Day10\\Assignment\\Assignment\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Assignment\\Models\\Student.cs",
+              "ToolTip": "D:\\Depi.Net\\MVC\\Day10\\Ali_Reda_Mohamed_Abdelbaky_MVC_Day10\\Assignment\\Assignment\\Models\\Student.cs",
+              "RelativeToolTip": "Assignment\\Models\\Student.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T15:47:11.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DepartmentVM.cs",
+              "DocumentMoniker": "D:\\Depi.Net\\MVC\\Day10\\Ali_Reda_Mohamed_Abdelbaky_MVC_Day10\\Assignment\\Assignment\\Models\\DepartmentVM.cs",
+              "RelativeDocumentMoniker": "Assignment\\Models\\DepartmentVM.cs",
+              "ToolTip": "D:\\Depi.Net\\MVC\\Day10\\Ali_Reda_Mohamed_Abdelbaky_MVC_Day10\\Assignment\\Assignment\\Models\\DepartmentVM.cs",
+              "RelativeToolTip": "Assignment\\Models\\DepartmentVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T15:53:27.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\Depi.Net\\MVC\\Day10\\Ali_Reda_Mohamed_Abdelbaky_MVC_Day10\\Assignment\\Assignment\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Assignment\\Models\\Department.cs",
+              "ToolTip": "D:\\Depi.Net\\MVC\\Day10\\Ali_Reda_Mohamed_Abdelbaky_MVC_Day10\\Assignment\\Assignment\\Models\\Department.cs",
+              "RelativeToolTip": "Assignment\\Models\\Department.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T15:53:21.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Depi.Net\\MVC\\Day10\\Ali_Reda_Mohamed_Abdelbaky_MVC_Day10\\Assignment\\Assignment\\Views\\Department\\Index.cshtml",
+              "RelativeDocumentMoniker": "Assignment\\Views\\Department\\Index.cshtml",
+              "ToolTip": "D:\\Depi.Net\\MVC\\Day10\\Ali_Reda_Mohamed_Abdelbaky_MVC_Day10\\Assignment\\Assignment\\Views\\Department\\Index.cshtml",
+              "RelativeToolTip": "Assignment\\Views\\Department\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-23T13:25:39.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Depi.Net\\MVC\\Day10\\Ali_Reda_Mohamed_Abdelbaky_MVC_Day10\\Assignment\\Assignment\\appsettings.json",
+              "RelativeDocumentMoniker": "Assignment\\appsettings.json",
+              "ToolTip": "D:\\Depi.Net\\MVC\\Day10\\Ali_Reda_Mohamed_Abdelbaky_MVC_Day10\\Assignment\\Assignment\\appsettings.json",
+              "RelativeToolTip": "Assignment\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-23T13:18:12.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Depi.Net\\MVC\\Day10\\Ali_Reda_Mohamed_Abdelbaky_MVC_Day10\\Assignment\\Assignment\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Assignment\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\Depi.Net\\MVC\\Day10\\Ali_Reda_Mohamed_Abdelbaky_MVC_Day10\\Assignment\\Assignment\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Assignment\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-23T13:14:01.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\Depi.Net\\MVC\\Day10\\Ali_Reda_Mohamed_Abdelbaky_MVC_Day10\\Assignment\\Assignment\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Assignment\\Views\\Account\\Register.cshtml",
+              "ToolTip": "D:\\Depi.Net\\MVC\\Day10\\Ali_Reda_Mohamed_Abdelbaky_MVC_Day10\\Assignment\\Assignment\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Assignment\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-23T13:13:02.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Depi.Net\\MVC\\Day10\\Ali_Reda_Mohamed_Abdelbaky_MVC_Day10\\Assignment\\Assignment\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Assignment\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Depi.Net\\MVC\\Day10\\Ali_Reda_Mohamed_Abdelbaky_MVC_Day10\\Assignment\\Assignment\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Assignment\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAAC0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T13:12:18.269Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

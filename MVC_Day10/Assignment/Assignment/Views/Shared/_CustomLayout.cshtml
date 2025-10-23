@@ -1,0 +1,145 @@
+﻿@using Microsoft.AspNetCore.Identity
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>@ViewBag.Title - My Application</title>
+
+    <!-- Google Font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="~/css/master.css" />
+</head>
+<body>
+    <div class="site-wrap">
+        <!-- Header -->
+        <header class="fbs__net-navbar" aria-label="navbar">
+            <div class="container">
+                <a class="navbar-brand" href="/">MyApp</a>
+
+                <nav>
+                    <ul class="navbar-nav">
+                        <li><a class="nav-link" href="/">Home</a></li>
+                        <li><a class="nav-link" href="/Department">Departments</a></li>
+                        <li><a class="nav-link" href="/Student">Students</a></li>
+                        <li><a class="nav-link" href="/Course">Courses</a></li>
+                        <li><a class="nav-link" href="/Instructor">Instructors</a></li>
+                        @if (User.IsInRole("Admin"))
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link" asp-controller="Admin" asp-action="Index">Admin</a>
+                            </li>
+                        }
+                        @if (User.Identity != null && User.Identity.IsAuthenticated)
+                        {
+                            <form asp-controller="Account" asp-action="Logout" method="post">
+                                <button type="submit">Logout</button>
+                            </form>
+                        }
+                        else
+                        {
+                            <a asp-controller="Account" asp-action="Login">Login</a>
+                            <a asp-controller="Account" asp-action="Register">Register</a>
+                        }
+                    </ul>
+                </nav>
+
+                <button class="fbs__net-navbar-toggler" aria-label="Toggle navigation">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <line x1="21" x2="3" y1="6" y2="6"></line>
+                        <line x1="15" x2="3" y1="12" y2="12"></line>
+                        <line x1="17" x2="3" y1="18" y2="18"></line>
+                    </svg>
+                </button>
+            </div>
+        </header>
+
+        <!-- Main Content -->
+        <main>
+            @RenderBody()
+        </main>
+
+        <!-- Footer -->
+        <footer class="footer">
+            <div class="container">
+                <div class="row mb-5">
+                    <div class="col">
+                        <h2>Join our newsletter</h2>
+                        <p>Stay updated with our latest news and offers</p>
+                    </div>
+                    <div class="col">
+                        <form class="d-flex gap-2">
+                            <input class="form-control" type="email" placeholder="Enter your email" required>
+                            <button class="btn" type="submit">Subscribe</button>
+                        </form>
+                    </div>
+                </div>
+
+                <div class="row mb-4">
+                    <div class="col">
+                        <h3>About</h3>
+                        <p>Building innovative solutions for modern web applications.</p>
+                    </div>
+                    <div class="col">
+                        <h3>Company</h3>
+                        <ul>
+                            <li><a href="#">About Us</a></li>
+                            <li><a href="#">Careers</a></li>
+                            <li><a href="#">Privacy Policy</a></li>
+                            <li><a href="#">Terms & Conditions</a></li>
+                        </ul>
+                    </div>
+                    <div class="col">
+                        <h3>Contact</h3>
+                        <p>Email: info@mydomain.com</p>
+                        <p>Phone: +1 (234) 567-8900</p>
+                    </div>
+                </div>
+
+                <div class="credits">
+                    &copy; <script>document.write(new Date().getFullYear());</script> MyApp. All rights reserved.
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    @RenderSection("Scripts", required: false)
+
+    <script>
+        // Navbar scroll effect
+        window.addEventListener('scroll', function() {
+            var navbar = document.querySelector('.fbs__net-navbar');
+            if (window.pageYOffset > 0) {
+                navbar.style.boxShadow = '0 4px 8px rgba(0,0,0,0.1)';
+            } else {
+                navbar.style.boxShadow = '0 2px 4px rgba(73, 75, 91, 0.1)';
+            }
+        });
+
+        // Mobile menu toggle
+        document.querySelector('.fbs__net-navbar-toggler')?.addEventListener('click', function() {
+            var nav = document.querySelector('.navbar-nav');
+            if (nav.style.display === 'flex') {
+                nav.style.display = 'none';
+            } else {
+                nav.style.display = 'flex';
+                nav.style.flexDirection = 'column';
+                nav.style.position = 'absolute';
+                nav.style.top = '70px';
+                nav.style.left = '0';
+                nav.style.right = '0';
+                nav.style.backgroundColor = 'var(--nav-bg)';
+                nav.style.padding = '20px';
+                nav.style.boxShadow = '0 4px 8px rgba(0,0,0,0.1)';
+            }
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,39 @@
+﻿@* @model IEnumerable<Assignment.Models.StudentCourseResult> *@
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<h2>Student Course Results</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Student Name</th>
+            <th>Course Name</th>
+            <th>Grade</th>
+            <th style="white-space: nowrap; text-align: center; padding: 8px;">Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (dynamic item in Model)
+        {
+            <tr>
+                <td>@item.StudentName</td>
+                <td>@item.CourseName</td>
+                <td style="background-color: @item.DegreeColor;">
+                    <span style="font-weight: bold;">@item.Grade</span>
+                </td>
+                <td style="white-space: nowrap; text-align: center; padding: 8px;">
+                    <a class="btn btn-sm btn-primary me-1" asp-action="Edit" asp-route-id="@item.Id">Edit</a>
+                    <a class="btn btn-sm btn-info me-1" asp-action="Details" asp-route-id="@item.Id">Details</a>
+                    <a class="btn btn-sm btn-danger" asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
